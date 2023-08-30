@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agus Wirayasa</h1>
 <h3 align="center">A Passionate Fullstack Developer from Indonesia</h3>
 
-Currently, I'm pursuing a major in Information Technology at the Institute of Technology and Business STIKOM Bali, as well as an applied degree in Software Engineering at Lithan EduClass Singapore. These academic pursuits have honed my skills in creating innovative digital solutions. I'm excited to combine my education with practical experience and contribute to impactful projects. You can explore my work at [guswirayasa.vercel.app](https://guswirayasa.vercel.app). Looking forward to connecting!
+Currently, I'm pursuing a major in Information Technology at the Institute of Technology and Business STIKOM Bali, as well as an applied degree in Software Engineering at Lithan EduClass Singapore. These academic pursuits have honed my skills in creating innovative digital solutions. I'm excited to combine my education with practical experience and contribute to impactful projects. You can explore my work at [aguswirayasa.vercel.app](https://aguswirayasa.vercel.app). Looking forward to connecting!
 
 
 <h3 align="left">Connect with me:</h3>
